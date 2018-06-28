@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 setup(
     name='lib_justin_furuness',
     packages=find_packages(),
-    version='0.1',
+    version='0.5',
     description='Test that prints out Justin Furuness',
     author='Justin Furuness',
     author_email='jfuruness@gmail.com',
