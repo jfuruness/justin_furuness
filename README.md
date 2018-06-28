@@ -4,7 +4,7 @@ My first pypi package
 
 ## Installation
 
-git clone git@github.com:DEV3L/python-package-archetype.git
+git clone https://github.com/jfuruness/justin_furuness 
 
 ## Usage
 
