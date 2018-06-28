@@ -7,8 +7,8 @@ setup(
     description='Test that prints out Justin Furuness',
     author='Justin Furuness',
     author_email='jfuruness@gmail.com',
-    url='',
-    download_url='',
+    url='https://github.com/jfuruness/justin_furuness',
+    download_url='https://github.com/jfuruness/justin_furuness',
     keywords=['Furuness', 'furuness', 'pypi', 'package'],  # arbitrary keywords
     install_requires=[
         'pytest==2.9.2'
